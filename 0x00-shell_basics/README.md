@@ -1,1 +1,1 @@
-My second readme
+write a script My first commit
